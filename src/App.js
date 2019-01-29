@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './img/hahmot.PNG';
+import logo from './img/people.png';
 import './App.css';
 import Quiz from './components/Quiz';
 import Question from './components/Question';
